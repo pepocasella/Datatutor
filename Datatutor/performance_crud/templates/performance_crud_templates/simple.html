@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+        <h2>users</h2>
+
+        {% for user in users %}
+            {{user.birth_date}}
+        {% endfor %}
+
+{% endblock %}
