@@ -1,8 +1,9 @@
 # Datatutor
 
 
-# Folders Organization
+# Folder Structure
 
+```
 Datatutor
     ├───Datatutor
     │   └───__pycache__
@@ -12,3 +13,4 @@ Datatutor
         ├───templates
         │   └───performance_crud_templates 
         └───__pycache__
+```
